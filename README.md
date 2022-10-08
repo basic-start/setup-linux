@@ -1,18 +1,9 @@
 # setup-linux
-Get starter for my Linux 
-- Install Kitty Terminal
-[kovidgoyal/kitty](https://sw.kovidgoyal.net/kitty/binary/#desktop-integration-on-linux)
-- Install VIM
-`sudo apt install vim`
-- Install Fish Shell 
-[github/fish-shell](https://github.com/fish-shell/fish-shell)
-- Install Git
-[git-scm/linux](https://git-scm.com/download/linux)
-- Setup SSH For GitHub
-[github-docs/authentication](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
-- Install Oh My Fish
-[Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish)
-- Install Starship
-[Starship.rs](https://starship.rs/)
-- Install TMUX
-[github/tmux](https://github.com/tmux/tmux/wiki/Installing)
+## Get starter for my Linux 
+1. Install Kitty and Fish [kitty-fish](https://github.com/thujuli/kitty-fish)
+2. Install NVIM [wiki-neovim](https://github.com/neovim/neovim/wiki/Installing-Neovim)
+3. Install Git [git-scm/linux](https://git-scm.com/download/linux)
+4. Setup SSH For GitHub [github-docs/authentication](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+5. Install Fisher [PM Fish](https://github.com/jorgebucaran/fisher)
+6. Starship [tarship.rs](https://starship.rs/)
+7. Install TMUX [github/tmux](https://github.com/tmux/tmux/wiki/Installing)
